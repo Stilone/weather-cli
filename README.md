@@ -20,7 +20,7 @@ Weather CLI - это инструмент командной строки, ко�
 
 Если вы нашли ошибку или хотите внести улучшения, пожалуйста, создайте issue или pull request в [репозитории проекта](https://github.com/Stilone/weather-cli).
 
-#Проект
+#Демонстрация
 
 <img align="center" height="150" width="445" alt="" src="https://raw.githubusercontent.com/Stilone/weather-cli/master/img/weather.jpg" />
 
