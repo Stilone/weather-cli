@@ -22,5 +22,5 @@ Weather CLI - это инструмент командной строки, ко�
 
 #Проект
 
-<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Stilone/weather-cli/master/img/weather.jpg" />
+<img align="center" height="250" width="575" alt="" src="https://raw.githubusercontent.com/Stilone/weather-cli/master/img/weather.jpg" />
 
