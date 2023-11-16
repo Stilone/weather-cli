@@ -23,4 +23,3 @@ Weather CLI - это инструмент командной строки, ко�
 # Демонстрация
 
 <img align="center" height="150" width="445" alt="" src="https://raw.githubusercontent.com/Stilone/weather-cli/master/img/weather.jpg" />
-
